@@ -12,6 +12,7 @@
   "type": "commonjs",
   "dependencies": {
     "@anthropic-ai/sdk": "^0.122.0",
+    "@google/genai": "^2.19.0",
     "dotenv": "^17.4.2",
     "node-fetch": "^3.3.2"
   }
